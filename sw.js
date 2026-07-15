@@ -5,8 +5,6 @@ const CACHE = 'vistoria-campo-v1';
 const SHELL = [
   './',
   './index.html',
-  './chart.umd.js',
-  './xlsx.full.min.js',
   './manifest.webmanifest',
   './icon-192.png',
   './icon-512.png',
